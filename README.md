@@ -5,7 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=Eveline36&label=Profile%20views&color=00FFFF&style=flat-square" alt="Eveline36's profile views" />
   </a>
 </p>
+
 ## 📝 Resume
+
 [Master CV - Tech Industry](Eveline_Srinivasan_Resume_3.pdf)
 
 ## 🧠 My Focus Areas
