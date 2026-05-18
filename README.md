@@ -1,16 +1,35 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Eveline%20Srinivasan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Dev%2C%20Amateur%20Graphic%20Designer%2C%20Community%20Organizer%2C%20Occasional%20Writer.&descSize=18&descAlignY=55&textBg=false"/>
 
-<!--
-**Eveline36/Eveline36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Eveline36">
+    <img src="https://komarev.com/ghpvc/?username=Eveline36&label=Profile%20views&color=00FFFF&style=flat-square" alt="Eveline36's profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 🧠 My Focus Areas
+- AI/ML Integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Eveline36">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eveline36&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Eveline36's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Eveline36&theme=radical&hide_border=true&cache_seconds=86400" alt="Eveline36's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Eveline36&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Eveline Srinivasan's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Eveline36">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eveline36&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
