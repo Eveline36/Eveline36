@@ -8,6 +8,9 @@
 
 ## 🧠 My Focus Areas
 - AI/ML Integrations
+- Data Analysis
+- Mobile App Development
+- Networking
 
 
 ## 📊 GitHub Stats & Trophies
