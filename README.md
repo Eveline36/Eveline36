@@ -10,12 +10,14 @@
 
 [Master CV - Tech Industry](Eveline_Srinivasan_Resume_3.pdf)
 
-## 🧠 My Focus Areas
-- AI/ML Integrations
-- Data Analysis
-- Mobile App Development
-- Networking
+## Projects
 
+ - Pinned below this custom progile banner
+
+## Graphic Design Portfolio
+
+[Design portfolio repo](https://github.com/Eveline36/design_portfolio)
+Note all portfolio images are part of read me no cloning required, just scroll the readme :)
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -27,16 +29,3 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Eveline36&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Eveline Srinivasan's GitHub Trophies" />
 </p>
-
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/Eveline36">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eveline36&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
